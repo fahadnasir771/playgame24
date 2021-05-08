@@ -2,6 +2,7 @@
 
 @section('content')
     <div class="container">
+    
       <div class="row">
         <div class="col-8"> <div class="container">
           <input type="radio" class="form-control" checked style="height: 20px;display: inline-block; width: 5%" id="v1" name="type" value="v1">
